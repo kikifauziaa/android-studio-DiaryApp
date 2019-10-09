@@ -17,7 +17,7 @@
             android:layout_width="42dp"
             android:layout_height="wrap_content"
             android:layout_marginRight="2dp"
-            android:background="#00000000"
+            android:background="#f54291"
             android:drawableLeft="@drawable/share"
             android:drawableStart="@drawable/share" />
         <Button
@@ -26,7 +26,7 @@
             android:layout_height="wrap_content"
             android:text="cancel"
             android:layout_marginRight="2dp"
-            android:background="#00000000"
+            android:background="#f54291"
             />
         <Button
             android:id="@+id/saveButtonIdUpdate"
@@ -47,7 +47,7 @@
             android:id="@+id/subjectEditTextIdUpdate"
             android:layout_width="match_parent"
             android:layout_height="60dp"
-            android:backgroundTint="#00ffffff"
+            android:backgroundTint="#ff78ae"
             android:ems="10"
             android:hint="Subject"
             android:inputType="textPersonName"
@@ -69,7 +69,7 @@
             android:ems="10"
             android:gravity="start"
             android:hint="Description"
-            android:backgroundTint="#00ffffff"
+            android:backgroundTint="#ff78ae"
             android:scrollbars="vertical"
             android:inputType="textMultiLine"/>
     </LinearLayout>
